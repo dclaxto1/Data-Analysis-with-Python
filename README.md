@@ -6,7 +6,7 @@ Total students: **39,170**<br />
 Total budget: **2469428**<br />
 Average math score: **78.99**<br />
 Average reading score: **81.88**<br />
-% passing math (the percentage of students who passed math): **74.98**<br />
+% passing math (the percentage of students who passed math): **74.98** <br />
 % passing reading (the percentage of students who passed reading): **85.81**<br />
 % overall passing (the percentage of students who passed math AND reading): **65.17**<br />
 ![image](https://github.com/dclaxto1/Data-Analysis-with-Python/assets/128431134/8aa9c6b4-0afc-4927-9505-8a271ac39a8a)
