@@ -1,5 +1,5 @@
 # Data-Analysis-with-Python
-Performed the necessary calculations and then create a high-level snapshot of the district's key metrics in a Pandas DataFrame.  <br />
+Performed the necessary calculations and then create a high-level snapshot of the district's key metrics in a Pandas DataFrame. <br />
 Including the following:<br />
 Total number of unique schools: **15**<br />
 Total students: **39,170**<br />
