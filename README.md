@@ -4,7 +4,7 @@ Including the following:<br />
 Total number of unique schools: **15** <br />  
 Total students: **39,170**<br />
 Total budget: **2469428**<br />    
-Average math score: **78.99**<br />  
+Average math score: **78.99**<br />    
 Average reading score: **81.88**<br />
 % passing math (the percentage of students who passed math): **74.98** <br />
 % passing reading (the percentage of students who passed reading): **85.81**<br />
