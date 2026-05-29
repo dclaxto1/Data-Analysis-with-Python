@@ -16,7 +16,7 @@ Average reading score: **81.88**<br />
 Performed the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
 Included the following:<br />
-School name: **14 differ3ent school names**<br />
+School name: **14 different school names**<br />
 School type: **2**<br />
 Total students: **39,170**<br />
 Total school budget: **2469428**<br />
